@@ -13,4 +13,4 @@
 * Publish videos to external players
 * Edit videos online right within MMPCM
 	
-The **Microsoft Media Platform Content Manager** installer and documentation are also available for download at [Download Center](http://www.microsoft.com/download/en/details.aspx?id=26668).
+The **Microsoft Media Platform Content Manager** installer and documentation are available for download at [Download Center](http://www.microsoft.com/download/en/details.aspx?id=26668).
