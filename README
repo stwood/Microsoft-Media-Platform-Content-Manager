@@ -1,0 +1,17 @@
+ <h1>Microsoft Media Platform Content Manager</h1>
+
+ <h2 id="section-1">Introduction</h2>
+ <dl>
+  <p> The Microsoft Media Platform Content Manager (MMPCM) is an open source solution that can be used by enterprises, educational institutions and broadcasting companies to manage their video assets using a lightweight and highly-customizable solution built on Microsoft SharePoint 2010 and Microsoft media-related technologies, such as Silverlight 4, IIS Media Services and Expression Encoder 4 among others.
+	The MMPCM infrastructure enables users to:
+  </p>
+  
+  <ul>
+	<li>Define, edit and approve / reject video assets</li>
+	<li>Transcode video into different formats</li>
+	<li>Broadcast Live Events</li>
+	<li>Insert Ads on Live Event transmissions</li>
+	<li>Edit videos online right within MMPCM</li>
+	<li>Publish videos to external players</li>
+	<li>Edit videos online right within MMPCM</li>
+  </ul>
